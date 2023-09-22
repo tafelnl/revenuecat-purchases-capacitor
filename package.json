@@ -1,5 +1,5 @@
 {
-  "name": "@revenuecat/purchases-capacitor",
+  "name": "@tafelnl/revenuecat-purchases-capacitor",
   "version": "6.1.0-SNAPSHOT",
   "description": "Capacitor in-app purchases and subscriptions made easy. Support for iOS and Android.",
   "main": "dist/plugin.cjs.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "RevenuecatPurchasesCapacitor.podspec"
+    "TafelnlRevenuecatPurchasesCapacitor.podspec"
   ],
   "author": "RevenueCat, Inc.",
   "license": "MIT",
